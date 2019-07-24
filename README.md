@@ -19,4 +19,4 @@ Then run the binary file in terminal:
 Rest is upto u...  :)
 
 ###Contact
-Doubts are welcome at : >https://t.me/M_A_A_L_I_K
+Doubts are welcome at : > https://t.me/M_A_A_L_I_K
