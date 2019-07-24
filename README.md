@@ -10,7 +10,7 @@ eg. x='%(-)' & so on. Even the spaces are encrypted so that it's defficult to kn
 U might be thinking for coincidence matching of special character eg. 'dab' could misconfigure 'erk' but i can assure that odds for that are highly low.
 
 ## Usage
-`git clone https://github.com/ritik-malik/Custom-Encryptyion`
+`git clone https://github.com/ritik-malik/Custom-Encryption.git`
 
 Then run the binary file in terminal:
 
