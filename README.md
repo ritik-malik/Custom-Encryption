@@ -11,6 +11,8 @@ U might be thinking for coincidence matching of special character eg. 'dab' coul
 
 ## Usage
 `git clone https://github.com/ritik-malik/Custom-Encryption.git`
+Note: it will run only for bash shell.
+if u are using some other shell like zsh, dash, fish, etc. please type bash before running the script else u may encouter an error
 
 Then run the binary file in terminal:
 
