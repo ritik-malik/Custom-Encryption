@@ -11,12 +11,11 @@ U might be thinking for coincidence matching of special character eg. 'dab' coul
 
 ## Usage
 `git clone https://github.com/ritik-malik/Custom-Encryption.git`
-Note: it will run only for bash shell.
-if u are using some other shell like zsh, dash, fish, etc. please type bash before running the script else u may encouter an error
 
-Then run the binary file in terminal:
+1st change the permission using chmod +x encryption.sh
+Then run the file:
 
-`./encryption.sh.x`
+`./encryption.sh` or `bash encryption.sh`
 
 Rest is upto u...  :)
 
