@@ -1,7 +1,7 @@
 # Custom-Encryption
 next level encryption
 
-The aim is self defined, encrypting/decrypting files.
+The aim is self defined, encrypting/decrypting files using a very simple & efiicient logic.
 
 ## Methodology
 Encryption is achieved by creating a character set made of special character for a-z & A-Z.
